@@ -1,6 +1,6 @@
 import {
   injectDeps
-} from 'react-simple-di';
+} from '@storybook/react-simple-di';
 
 export default class App {
   constructor(context) {
